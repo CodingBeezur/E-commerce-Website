@@ -1,3 +1,3 @@
 .navbar-brand {
-    cursor: none;
+    pointer-events: none;
 }
