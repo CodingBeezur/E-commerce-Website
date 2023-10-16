@@ -25,8 +25,21 @@ My favorite part of my project has to be image flip on hoover. It was a bit of a
 
 ![Image on hoover effect](images/readme.file/project.gif)
 
-### Lessons I learned
+### Lessons I learned  & thoughts before presentation 
 The biggest lesson I learned was how to properly structure my website. What I also learned is that:
-* 95% of what I want to built is already built 
-* Bootstrap will make your life easy
-* There is an answer to your issue on the internet somewhere 
+
+* 95% of what I want to build is already built .
+* Bootstrap will make your life easy.
+* There is an answer to your issue on the internet somewhere.
+* Things break, just have to be patient and disect the issue. 
+
+I overshot my aspiration's for this presentation and had to re-define my goals for this project. There is some components which I didn't really troubleshoot to truly fix because of time.
+
+### Last thoughts - Post Presentation 
+I am always eager to learn, I know there is alot of work that I have to do but appreciate my instructor, Gregor Dzierzon, and my classmates for being there to help me.
+
+This was my first project using HTML/Bootstrap/CSS. It was a big challenge, but I have learned a lot from it. One day, I will comeback to redo this website after I learned much more. 
+
+Thank you for taking the time and reading this. 
+
+![Thanks ](https://us.v-cdn.net/6032561/uploads/AM8IHDSB3NK3/thank-you.gif)
