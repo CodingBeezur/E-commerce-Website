@@ -17,6 +17,5 @@ First thing that came in to mind was to establish a theme for the website. I bel
 
 ![Nav + Footer ](images/readme.file/Nav%20+%20Footer%20.jpg)
 
-Now that I finished that, I decided to focus on placing the required items on each page before I were to go into depth about customizing them 
 
-
+Now that I finished that, I decided to focus on placing the required items on each page before I were to go into depth about customizing them.

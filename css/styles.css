@@ -36,4 +36,9 @@
   .card:hover .card-img-top {
     opacity: 0;
   }
-  
+
+  #phoenix {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+  }
