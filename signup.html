@@ -53,9 +53,6 @@
             <li class="nav-item">
               <a class="nav-link" href="products.html">Products</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="featured.html">Featured</a>
-            </li>
           </ul>
 
           <!-- right side of index-->
@@ -186,6 +183,28 @@
               required
             />
             <div class="invalid-feedback"></div>
+            
+            <!-- Radio entry-->
+            <div class="form-row m-1">
+              <div class="col-md-12 mb-4">
+                <label for="heard-about">How did you hear about us?</label>
+                <div class="form-check">
+                  <input type="radio" class="form-check-input" id="heard-social-media" name="heard-about" value="Social Media">
+                  <label class="form-check-label" for="heard-social-media">Social Media</label>
+                </div>
+                <div class="form-check">
+                  <input type="radio" class="form-check-input" id="heard-friend-family" name="heard-about" value="Friend/Family">
+                  <label class="form-check-label" for="heard-friend-family">Friend/Family</label>
+                </div>
+                <div class="form-check">
+                  <input type="radio" class="form-check-input" id="heard-online-search" name="heard-about" value="Online Search">
+                  <label class="form-check-label" for="heard-online-search">Online Search</label>
+                </div>
+                <div class="form-check">
+                  <input type="radio" class="form-check-input" id="heard-other" name="heard-about" value="Other">
+                  <label class="form-check-label" for="heard-other">Other</label>
+                </div>
+              <!-- Radio Entry -->
           </div>
         </div>
         <div class="form-group">
@@ -204,8 +223,6 @@
               You must agree before submitting.
             </div>
           </div>
-        </div>
-        <button class="btn btn-primary" type="submit">Submit form</button>
       </form>
     </section>
     <!--Sign Up Form-->
