@@ -23,7 +23,7 @@ Now that I finished that, I decided to focus on placing the required items on ea
 ### Favorite Component of my project
 My favorite part of my project has to be image flip on hoover. It was a bit of a challenge because of the limitation on languages on the project, but overall really happy with it. I have attached a gif below to see. 
 
-![Alt Text](images/readme.file/project.gif)
+![Image on hoover effect](images/readme.file/project.gif)
 
 ### Lessons I learned
 The biggest lesson I learned was how to properly structure my website. What I also learned is that:
