@@ -1,45 +1,40 @@
-# E-commerce-Website
-#Capstone Project for PluralSight
+# E-commerce Website
+## Capstone Project for PluralSight
 
-### Project description: 
-Use what we know about HTML, CSS and Bootstrap to create an e-commerce site. 
+### Project Description
+For this capstone project, we leveraged our knowledge of HTML, CSS, and Bootstrap to create a comprehensive e-commerce website. The final site includes five pages and incorporates various essential HTML elements, such as tables, forms, images, lists, semantic HTML elements, and Bootstrap components.
 
-The website will include 5 pages to be complete. You will also be required to include certain HTML elements on your site including but not limited to HTML tables, HTML forms, images, lists, semenatic HTML Element, and Bootstrap components. 
+### Approach
+For my project, I chose to create a website dedicated to rare sneakers, inspired by my passion for streetwear. Key influences for the site’s design and functionality include:
+- [Bodega](https://bdgastore.com/)
+- [StockX](https://stockx.com/)
+- [Off-White](https://www.off---white.com/en-us/)
 
+The first step was establishing a cohesive theme to guide the site's design. Without a clear theme, I felt directionless. After working on the navigation bar and footer, I settled on a design that matched my vision.
 
-### About my approach:
-As I worked on this project, I decided to create a website about rare sneakers. This comes from my general love for streetwear. The biggest motivators for my website were:
-* Bodega [https://bdgastore.com/]
-* StockX [https://stockx.com/]
-* Off-White [https://www.off---white.com/en-us/]
+![Nav + Footer](images/readme.file/Nav%20+%20Footer%20.jpg)
 
-First thing that came in to mind was to establish a theme for the website. I believed that since there was no theme; I would have no direction. So after a bit of work on my Nav-bar and footer.  I found one that fit my idea. 
+With the theme in place, I focused on incorporating the required HTML elements on each page before delving into customization.
 
-![Nav + Footer ](images/readme.file/Nav%20+%20Footer%20.jpg)
+### Favorite Component
+My favorite feature of the project is the image flip on hover. Implementing this effect was challenging due to the project's language constraints, but I am very pleased with the result. Below is a GIF demonstrating the effect.
 
+![Image on hover effect](images/readme.file/project.gif)
 
-Now that I finished that, I decided to focus on placing the required items on each page before I were to go into depth about customizing them. 
+### Lessons Learned and Pre-Presentation Thoughts
+The most significant lesson I learned was how to properly structure a website. Additional insights include:
+- 95% of desired functionalities already exist.
+- Bootstrap simplifies development significantly.
+- Solutions to almost any issue can be found online.
+- Patience and systematic troubleshooting are crucial when things break.
 
-### Favorite Component of my project
-My favorite part of my project has to be image flip on hoover. It was a bit of a challenge because of the limitation on languages on the project, but overall really happy with it. I have attached a gif below to see. 
+Initially, I set high aspirations for this project but had to recalibrate my goals due to time constraints. Some components were not thoroughly debugged, but the overall experience was immensely educational.
 
-![Image on hoover effect](images/readme.file/project.gif)
+### Post-Presentation Reflections
+I am always eager to learn and improve. I recognize that there is still much to learn, and I am grateful for the support of my instructor, Gregor Dzierzon, and my classmates.
 
-### Lessons I learned  & thoughts before presentation 
-The biggest lesson I learned was how to properly structure my website. What I also learned is that:
+This was my first project using HTML, Bootstrap, and CSS. Despite the challenges, it was a valuable learning experience. I look forward to revisiting and improving this website as my skills develop.
 
-* 95% of what I want to build is already built .
-* Bootstrap will make your life easy.
-* There is an answer to your issue on the internet somewhere.
-* Things break, just have to be patient and disect the issue. 
+Thank you for taking the time to read this.
 
-I overshot my aspiration's for this presentation and had to re-define my goals for this project. There is some components which I didn't really troubleshoot to truly fix because of time.
-
-### Last thoughts - Post Presentation 
-I am always eager to learn, I know there is alot of work that I have to do but appreciate my instructor, Gregor Dzierzon, and my classmates for being there to help me.
-
-This was my first project using HTML/Bootstrap/CSS. It was a big challenge, but I have learned a lot from it. One day, I will comeback to redo this website after I learned much more. 
-
-Thank you for taking the time and reading this. 
-
-![Thanks ](https://us.v-cdn.net/6032561/uploads/AM8IHDSB3NK3/thank-you.gif)
+![Thanks](https://us.v-cdn.net/6032561/uploads/AM8IHDSB3NK3/thank-you.gif)
